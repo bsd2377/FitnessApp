@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FitnessApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FitnessApp.iml" group="FitnessApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="FitnessApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1403315050/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1403315050/react-native-gesture-handler.iml" group="FitnessApp/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1207010090/react-native-radar.iml" filepath="$PROJECT_DIR$/.idea/modules/-1207010090/react-native-radar.iml" group="FitnessApp/react-native-radar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-184321082/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-184321082/react-native-reanimated.iml" group="FitnessApp/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/685336447/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/685336447/react-native-safe-area-context.iml" group="FitnessApp/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-89568681/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-89568681/react-native-screens.iml" group="FitnessApp/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/820921908/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/820921908/react-native-svg.iml" group="FitnessApp/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1653355264/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1653355264/react-native-vector-icons.iml" group="FitnessApp/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.radar:sdk:3.0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7250886faec0c5193c017856427dc191/jetified-sdk-3.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7250886faec0c5193c017856427dc191/jetified-sdk-3.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7250886faec0c5193c017856427dc191/jetified-sdk-3.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.radar/sdk/3.0.5/2dfe677865eb3f362649656b6025a03ec5b16e8d/sdk-3.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.radar/sdk/3.0.5/da0d2690fade2f90fb123d9763017876c7687aa2/sdk-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
