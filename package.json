@@ -1,0 +1,46 @@
+{
+  "name": "FitnessApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@mauron85/cordova-plugin-background-geolocation": "^3.1.0",
+    "@mauron85/react-native-background-geolocation": "^0.6.3",
+    "@react-navigation/drawer": "^5.8.6",
+    "@react-navigation/native": "^5.7.1",
+    "native-base": "^2.13.13",
+    "react": "16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "0.63.2",
+    "react-native-chart-kit": "^6.4.1",
+    "react-native-dropdown-picker": "^3.1.11",
+    "react-native-geolocation-service": "^5.0.0",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-maps": "^0.27.1",
+    "react-native-radar": "^3.0.5",
+    "react-native-reanimated": "^1.10.1",
+    "react-native-safe-area-context": "^3.1.1",
+    "react-native-screens": "^2.9.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-vector-icons": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/runtime": "7.10.5",
+    "@react-native-community/eslint-config": "1.1.0",
+    "babel-jest": "25.5.1",
+    "eslint": "6.8.0",
+    "jest": "25.5.4",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
